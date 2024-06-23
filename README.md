@@ -1,3 +1,5 @@
+<h1>KTOR AUTH</h1>
+
 This project implements a login system with secure token handling (access & refresh) on the backend.
 
 I’m thrilled to share my latest project where I’ve dived deep into Compose Multiplatform Mobile (CMP) and Ktor to create a seamless and secure login experience. Using PostgreSQL for the database and Jetpack Compose for a unified UI across platforms, this project has been a fantastic journey of learning and innovation.
@@ -12,7 +14,17 @@ This has been an incredible experience, and I can’t wait to apply these skills
 
 Linkedin Post with demonstration - https://www.linkedin.com/posts/karunesh-palekar-37a247269_cmp-kmp-kmm-activity-7208683881888153601-HRwB?utm_source=share&utm_medium=member_desktop
 
+Remember to change your BASE_URL from the Constant file 
 
+```
+object Constant {
+    const val BASE_URL = "http://192.20.10.2:8080"
+}
+```
+
+The backend code will be uploaded soon !! 
+
+--------------------------------------------------------------------------------------------------------------
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
