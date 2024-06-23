@@ -1,4 +1,18 @@
-<<<<<<< HEAD
+This project implements a login system with secure token handling (access & refresh) on the backend.
+
+I’m thrilled to share my latest project where I’ve dived deep into Compose Multiplatform Mobile (CMP) and Ktor to create a seamless and secure login experience. Using PostgreSQL for the database and Jetpack Compose for a unified UI across platforms, this project has been a fantastic journey of learning and innovation.
+
+Here’s a quick rundown:
+🔐 Backend: Secure token handling with access and refresh tokens.
+📱 UI: Shared UI for both Android and iOS using Jetpack Compose.
+💾 Database: Reliable and efficient data management with PostgreSQL.
+
+This has been an incredible experience, and I can’t wait to apply these skills to even more projects. If you’re also exploring CMP or Ktor, I’d love to connect and hear about your experiences!
+
+
+Linkedin Post with demonstration - https://www.linkedin.com/posts/karunesh-palekar-37a247269_cmp-kmp-kmm-activity-7208683881888153601-HRwB?utm_source=share&utm_medium=member_desktop
+
+
 This is a Kotlin Multiplatform project targeting Android, iOS.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
@@ -13,6 +27,4 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
-=======
-# KtorAuth
->>>>>>> origin/main
+
